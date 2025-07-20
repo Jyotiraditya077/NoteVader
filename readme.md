@@ -1,4 +1,4 @@
-# NoteVader 
+# NoteVader
 
 <p align="center">
   <img src="https://github.com/Jyotiraditya077/NoteVader/blob/main/frontend/public/logo.png" alt="NoteVader Logo" width="100px">
@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=780&lines=May+the+Force+be+with+you.;May+the+Code+be+with+you." alt="Typing SVG Yoda" />
 </p>
-
 
 ---
 
@@ -29,28 +28,30 @@
 ✔️ Mobile-friendly responsive layout  
 ✔️ Toggle between **Yoda** and **Darth** themes  
 ✔️ Smooth transitions and interactive design via DaisyUI  
-✔️ Clean and cosmic-themed user interface  
+✔️ Clean and cosmic-themed user interface
 
 ---
 
 ## Demo
 
-🔗 **Live App**: [NoteVader](https://notevader.onrender.com)
+🔗 **Live App**: [NoteVader](https://mynotevader.onrender.com)
 
 ---
 
 ## Tech Stack
 
-**Frontend:**  
-- React (Vite)  
-- Tailwind CSS + DaisyUI  
-- Lucide Icons  
+**Frontend:**
 
-**Backend:**  
-- Node.js  
-- Express.js  
-- MongoDB (with Mongoose)  
-- JWT for authentication  
+- React (Vite)
+- Tailwind CSS + DaisyUI
+- Lucide Icons
+
+**Backend:**
+
+- Node.js
+- Express.js
+- MongoDB (with Mongoose)
+- JWT for authentication
 
 ---
 
